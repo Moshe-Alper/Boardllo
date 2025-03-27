@@ -1,6 +1,7 @@
 # Boardllo
 
 Boardllo is a project management tool inspired by Trello. It helps teams collaborate and manage their tasks efficiently.
+You can access the live version [here](https://boardllo.onrender.com/).
 
 ## Table of Contents
 - [Frontend](#frontend)
@@ -12,8 +13,6 @@ Boardllo is a project management tool inspired by Trello. It helps teams collabo
 
 ## Frontend
 The frontend of Boardllo is built with React and handles all the user interface interactions. You can find the frontend repository [here](https://github.com/Moshe-Alper/Boardllo-frontend).
-
-You can access the live version of the frontend [here](https://boardllo.onrender.com/).
 
 ## Backend
 The backend is powered by Node.js and Express, managing the API endpoints and data storage. You can find the backend repository [here](https://github.com/Moshe-Alper/Boardllo-backend).
