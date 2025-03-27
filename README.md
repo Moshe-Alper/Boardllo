@@ -2,8 +2,8 @@
 
 ### Frontend
 The frontend of Boardllo is built with React and handles all the user interface interactions.
-https://github.com/Moshe-Alper/Boardllo-frontend
 <BR>
+https://github.com/Moshe-Alper/Boardllo-frontend
 
 ### Backend
 https://github.com/Moshe-Alper/Boardllo-backend
